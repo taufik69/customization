@@ -1,5 +1,5 @@
 <div align="center">
-<img src="<a href="https://ibb.co/YkGMNr5"><img src="https://i.ibb.co/7WF5S93/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="animated-man-computer-coding-nae6mec378lsg1i3" border="0" /></a>" align="center" style="width: 100%" />
+<img src="<a href="https://ibb.co/YkGMNr5"><img src="https://i.ibb.co/7WF5S93/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="animated-man-computer-coding-nae6mec378lsg1i3" border="0" width:"100" />
 </div>  
   
 
@@ -9,10 +9,10 @@
 - 🔭 HI  I’m currently working on [E-commerce site](https://github.com/taufik69/oreby-backend)💪🛠️  
   
 
-- 🌱 I’m currently learning devops such as  Kubernetes and also docker🚢  
+- 🌱 I’m currently learning DevOps such as  Kubernetes and also docker🚢  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies🤗  
+- ❓ Ask me about anything related to the MERN stack and related technologies🤗  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
