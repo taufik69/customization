@@ -1,4 +1,4 @@
-<div align="center" style: "width:1000px">
+<div align="center" style:"width:1000px;">
 <a href="https://ibb.co/Qfq0Hs4"><img src="https://i.ibb.co/hyn0dpS/pexels-neo-2653362.jpg" alt="pexels-neo-2653362" border="0"></a>
 </div>  
   
@@ -27,7 +27,7 @@
 
 
 ### Frontend  
-<div style:"padding:100px">  
+<div style:"padding:100px;">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
