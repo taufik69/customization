@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://ibb.co/YkGMNr5"><img src="https://i.ibb.co/YkGMNr5/animated-man-computer-coding-nae6mec378lsg1i3.gif" width:"100" alt="animated-man-computer-coding-nae6mec378lsg1i3" border="0" /></a>
+<img src="<a href="https://ibb.co/YkGMNr5"><img src="https://i.ibb.co/7WF5S93/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="animated-man-computer-coding-nae6mec378lsg1i3" border="0" /></a>" align="center" style="width: 100%" />
 </div>  
   
 
@@ -141,6 +141,7 @@
 <br/>  
 
 
+## Recent Blog Posts  
   
 
 <br/>  
