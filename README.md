@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style:"width:1000px">
 <a href="https://ibb.co/Qfq0Hs4"><img src="https://i.ibb.co/hyn0dpS/pexels-neo-2653362.jpg" alt="pexels-neo-2653362" border="0"></a>
 </div>  
   
@@ -9,10 +9,10 @@
 - 🔭 HI  I’m currently working on [E-commerce site](https://github.com/taufik69/oreby-backend)💪🛠️  
   
 
-- 🌱 I’m currently learning devops such as  Kubernetes and also docker🚢  
+- 🌱 I’m currently learning DevOps such as  Kubernetes and also docker🚢  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies🤗  
+- ❓ Ask me about anything related to the MERN stack and related technologies🤗  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
