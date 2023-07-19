@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="<a href="https://ibb.co/Qfq0Hs4"><img src="https://i.ibb.co/hyn0dpS/pexels-neo-2653362.jpg" alt="pexels-neo-2653362" border="0"></a>" />
+</div>  
   
 
 ### <div align="center">Hello 👻 I'm Taufik Islam, a full-stack web developer 👨‍💻 working at creative it Institute since 2020 🚀</div>  
@@ -7,10 +9,10 @@
 - 🔭 HI  I’m currently working on [E-commerce site](https://github.com/taufik69/oreby-backend)💪🛠️  
   
 
-- 🌱 I’m currently learning DevOps such as  Kubernetes and also docker🚢  
+- 🌱 I’m currently learning devops such as  Kubernetes and also docker🚢  
   
 
-- ❓ Ask me about anything related to the MERN stack and related technologies🤗  
+- ❓ Ask me about anything related to MERN stack and related technologies🤗  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -132,20 +134,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=taufik69&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=taufik69&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>  
+<br/>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufik69&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
 <br/>  
-
-  
-
 <br/>  
 
 <div align="center">
@@ -155,8 +151,6 @@
 
 <br/>  
 
-
 <br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
