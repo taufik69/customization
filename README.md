@@ -91,8 +91,10 @@
 </div>  
 
 
+<br/> 
+<br />
 
-### App Developement  
+### App Development  
 <div align="center">  
 <a href="https://nativescript.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nativescript.png" alt="NativeScript" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
@@ -149,8 +151,6 @@
 </div>  
   
 
-<br/>  
-
+<br/> 
 <br />
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
