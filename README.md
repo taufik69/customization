@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.ibb.co/7WF5S93/animated-man-computer-coding-nae6mec378lsg1i3.gif"  width:"100%" />
-</div>  
+
   
 
 ### <div align="center">Hello 👻 I'm Taufik Islam, a full-stack web developer 👨‍💻 working at creative it Institute since 2020 🚀</div>  
