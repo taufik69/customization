@@ -1,5 +1,5 @@
 <div align="center">
-<img src="<a href="https://ibb.co/YkGMNr5"><img src="https://i.ibb.co/7WF5S93/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="animated-man-computer-coding-nae6mec378lsg1i3" border="0" width:"100" />
+<img src="https://i.ibb.co/7WF5S93/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt:"heade" border="0" width:"100" />
 </div>  
   
 
